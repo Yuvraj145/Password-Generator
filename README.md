@@ -1,6 +1,6 @@
-# a simpe password generator project 
+# A simpe password generator project 
 
-# hwo to get this
+
 
 # in the project directory
 
